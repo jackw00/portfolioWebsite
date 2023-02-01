@@ -1,3 +1,5 @@
+This project and website is based on the article from free code camp found here: https://www.freecodecamp.org/news/build-portfolio-website-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
