@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Venice Vikings Website",
+    subtitle: "HTML, CSS, and Bootstrap Framework",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "I volunteered to create a basic website for my local youth football organization's Fall 2021 season.",
+    image: "./VeniceVikingsWebsite.png",
+    link: "https://github.com/jackw00/VeniceVikingsWebsite",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Under Construction",
+    subtitle: "??",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I am working on more projects!",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Under Construction",
+    subtitle: "??",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "I am working on more projects!",
+    image: "./project-2.gif",
+    link: "",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Under Construction",
+    subtitle: "??",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "I am working on more projects!",
+    image: "./project-2.gif",
+    link: "",
   },
 ];
 
@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "C++",
+  "PyTorch library",
+  "HTML/CSS",
+  "Microsoft Office Suite",
+  "Human-Centered Design",
 ];
